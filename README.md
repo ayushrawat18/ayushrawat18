@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**ayushrawat18/ayushrawat18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello Everyone, 
 
-Here are some ideas to get you started:
+Welcome to my Github page! I am a Senior Engineer currently working with ServiceNow. My areas of expertise are on DS & Algorithms. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies currently I am working on 🔭:
+  - Cloud technologies (AWS, Azure, GCP)
+  - Terraform
+  - Java, Node JS, Javascript
+
+Things I am currently learning 🌱  :
+  - Blockchain
+  - Distributed Cloud Computing
+  - Multi-threaded algorithms 
+
+Next goals :
+  - Scalable applications
+  - Distributed systems
+
