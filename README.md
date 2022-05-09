@@ -7,6 +7,7 @@ Technologies currently I am working on 🔭:
   - Cloud technologies (AWS, Azure, GCP)
   - Terraform
   - Java, Node JS, Javascript
+  - Designing distributed systems
 
 Things I am currently learning 🌱  :
   - Blockchain
